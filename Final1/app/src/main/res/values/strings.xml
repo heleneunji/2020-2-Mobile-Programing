@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Final1</string>
+
+    <string-array name="fresh_1">
+        <item>IT 기술의 이해</item>
+        <item>프로그래밍 입문(필수)</item>
+    </string-array>
+
+    <string-array name="fresh_2">
+        <item>IT 수학</item>
+        <item>기초 프로그래밍(필수)</item>
+    </string-array>
+
+    <string-array name="sopho_1">
+        <item>객체지향 프로그래밍(필수)</item>
+        <item>웹프로그래밍 기초(필수)</item>
+        <item>데이터 구조(필수)</item>
+        <item>IT기기구조</item>
+    </string-array>
+
+    <string-array name="sopho_2">
+        <item>C++ 프로그래밍</item>
+        <item>모바일 프로그래밍</item>
+        <item>서버운영 및 보안</item>
+        <item>웹프로그래밍 응용</item>
+    </string-array>
+
+    <string-array name="junior_1">
+        <item>데이터베이스</item>
+        <item>컴퓨터그래픽 프로그래밍</item>
+        <item>알고리즘 입문</item>
+        <item>영상 처리 및 응용</item>
+        <item>UI/UX 설계</item>
+    </string-array>
+
+    <string-array name="junior_2">
+        <item>IT 소프트웨어 공학</item>
+        <item>가상 및 증강 현실 응용</item>
+        <item>네트워크</item>
+        <item>운영체제 원리</item>
+        <item>센서 프로그래밍</item>
+    </string-array>
+
+    <string-array name="senior_1">
+        <item>IoT 응용</item>
+        <item>IT 기술 및 산업동향</item>
+        <item>데이터마이닝 개론</item>
+        <item>스마트 서비스</item>
+        <item>지능형 소프트웨어</item>
+    </string-array>
+
+    <string-array name="senior_2">
+        <item>HCI 개론</item>
+        <item>데이터 분석 및 활용</item>
+        <item>컴퓨터 비전</item>
+        <item>클라우드 컴퓨팅</item>
+    </string-array>
+
+    <string-array name="past3years">
+        <item>2020년 강의 계획서</item>
+        <item>2019년 강의 계획서</item>
+        <item>2018년 강의 계획서</item>
+    </string-array>
+
+</resources>

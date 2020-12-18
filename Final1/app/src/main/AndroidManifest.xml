@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hanium.final1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/symbol"
+        android:label="숙명ITs'"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".IntroduceProfessor"/>
+        <activity android:name=".JavaClassActivity"/>
+        <activity android:name=".PastJavaClass2020Activity"/>
+        <activity android:name=".PastJavaClass2019Activity"/>
+        <activity android:name=".PastJavaClass2018Activity"/>
+        <activity android:name=".AndroidClassActivity"/>
+        <activity android:name=".PastAndroidClass2020Activity"/>
+        <activity android:name=".PastAndroidClass2019Activity"/>
+        <activity android:name=".PastAndroidClass2018Activity"/>
+        <activity android:name=".NetworkClassActivity"/>
+        <activity android:name=".PastNetworkClass2020Activity"/>
+        <activity android:name=".PastNetworkClass2019Activity"/>
+        <activity android:name=".PastNetworkClass2018Activity"/>
+
+    </application>
+
+</manifest>

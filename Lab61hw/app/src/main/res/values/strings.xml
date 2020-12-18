@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab6-1-hw</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">예약을 해 봅시다</string>
+    <string name="currentTime">현재 시간: </string>
+    <string name="reservatedDuringTime">예약에 걸린 시간: </string>
+    <string name="reservationStatusTitle">예약 진행 상태: </string>
+    <string name="reservationStatusWaiting">대기 중</string>
+    <string name="reservationStatusReservating">예약 중</string>
+    <string name="reservationStart">예약 시작</string>
+    <string name="reservationCompleted">예약됨</string>
+    <string name="chronoText">%s</string>
+    <string name="duringTime">초</string>
+    <string name="setDate">날짜 설정(DatePicker)</string>
+    <string name="setTime">시간 설정(TimePicker)</string>
+    <string name="setReservationCompleted">예약 완료</string>
+    <string name="none">-</string>
+
+</resources>

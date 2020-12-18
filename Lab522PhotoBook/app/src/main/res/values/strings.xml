@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab5-2-2-PhotoBook</string>
+
+    <string name="title01">사진1</string>
+    <string name="artist01">2020권은지</string>
+    <string name="picture01">pic1</string>
+    <string name="title02">사진2</string>
+    <string name="artist02">2018권은지</string>
+    <string name="picture02">pic2</string>
+    <string name="title03">사진3</string>
+    <string name="artist03">교표</string>
+    <string name="picture03">pic3</string>
+</resources>

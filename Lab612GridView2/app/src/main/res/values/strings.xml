@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab6-1-2-GridView2</string>
+
+    <string name="mov1">기생충</string>
+    <string name="mov2">1917</string>
+    <string name="mov3">뷰티인사이드</string>
+    <string name="mov4">1987</string>
+    <string name="mov5">말레피센트</string>
+
+</resources>

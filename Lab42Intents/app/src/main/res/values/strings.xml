@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab4-2-Intents</string>
+
+    <string name="label_id">아이디</string>
+    <string name="label_password">비밀번호</string>
+    <string name="btm_login">로그인</string>
+
+    <string-array name="mainmenu">
+        <item>명시적 인텐트예제</item>
+        <item>암시적 인텐트예제</item>
+    </string-array>
+
+    <array name="intentlist">
+        <item>1.ACTION_DIAL</item>
+        <item>2.ACTION_CALL</item>
+        <item>3.ACTION_SEARCH</item>
+        <item>4.ACTION_SENDTO</item>
+        <item>5.ACTION_WEB_SEARCH</item>
+        <item>6.ACTION_PICK</item>
+        <item>7.ACTION_VIEW1[웹]</item>
+        <item>8.ACTION_VIEW2[문자]</item>
+        <item>9.ACTION_VIEW2[지도]</item>
+    </array>
+
+    <string name="title_activity_login">LoginActivity</string>>
+
+</resources>
